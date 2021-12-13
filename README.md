@@ -36,6 +36,10 @@ All models are in development. For the latest versions, check the individual bra
 * [LightGBM](https://github.gatech.edu/amalhotra60/CSE-6250-Group-Project/blob/main/Lightgbm_Model.ipynb)
 * [RNN](https://github.gatech.edu/amalhotra60/CSE-6250-Group-Project/blob/main/RNN_Model.ipynb)
 
+## Model performance
+
+<img src="output/auc_compare.png" alt="drawing" width="400" height="400"/> <img src="output/auprc_compare.png" alt="drawing" width="400" height="400"/>
+
 ## Resource
 
 * Data pipeline: Detailed data filtering and label definition: Early Recognition of Sepsis with Gaussian Process Temporal

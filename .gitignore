@@ -1,0 +1,13 @@
+*.ipynb
+Data/
+*.pyc
+__pycache__
+output/*.zip
+!*_Model.ipynb
+!RNN*.ipynb
+bdfh.json
+data_*
+t1_*
+*.jpg
+*.tex
+Python/model_data.py

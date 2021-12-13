@@ -1,0 +1,18 @@
+name: sepsis
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.6
+  - pytorch
+  - torchvision
+  - cudatoolkit=10.2
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - pyarrow
+  - pip
+  - pip:
+    - google-cloud-bigquery[bqstorage,pandas]
+    - SciencePlots
